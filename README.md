@@ -1,1 +1,3 @@
-# java_2019_06
+# Student
+
+Eugene Kari (user36235@otus-student.ru)
